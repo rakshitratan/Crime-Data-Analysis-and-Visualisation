@@ -8,4 +8,6 @@ We will be performing the following task in the first part of the analysis:
  2. Defining parameters so we can work on different attributes of data
  3. Defining custom function
  4. Visualisation
+
+
 YouTube: https://youtu.be/CZvnPnXf0wQ
